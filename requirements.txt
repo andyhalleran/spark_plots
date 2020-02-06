@@ -1,6 +1,6 @@
 pandas
 numpy
-geopanas
+geopandas
 matplotlib
 descartes
 shapely
